@@ -1,4 +1,4 @@
-# Graphic Designer
+# UI/UX Designer
 
 ### Education
 Bsc. Computer Technology - Jomo Kenyatta University of Agriculture & Tectnology(JKUAT)
@@ -27,8 +27,4 @@ SOCIAL MEDIA MANAGER: Otaku House Kenya - 2022 /Present
 ### Projects
 - Cuntada Restaurant web design
 - Gym App design
-- personal portfolio design
-- Signup landing page
-- Forestry landing page
-- Architettura d'interni web design
-   
+- Personal portfolio design
