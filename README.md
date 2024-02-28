@@ -20,11 +20,11 @@ SOCIAL MEDIA MANAGER: Otaku House Kenya - 2022 /Present
 - Ad Campaigns: Create and manage paid advertising campaigns on social media platforms to reach specific target audiences.
   
 ### Skills
-- Graphic Design 60%
-- Video Editing 60%
-- 3D Modeling 60%
-- Photography 70%
-- Web Design 90%
+- Graphic Design - 60%
+- Video Editing - 60%
+- 3D Modeling - 60%
+- Photography - 70%
+- Web Design - 90%
   
 ### Projects
 - Cuntada Restaurant web design
