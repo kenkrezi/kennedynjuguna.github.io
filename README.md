@@ -1,5 +1,3 @@
-# kennedynjuguna.github.io
-
 # Graphic Designer
 
 ### Education
