@@ -25,9 +25,14 @@ SOCIAL MEDIA MANAGER: Otaku House Kenya - 2022 /Present
 - Web Design - 90%
   
 ### Projects
-! [Cuntada Restaurant web design](/images/CUNTADA WEBSITE.png)
-! [Gym App design] (/images/CORPUS BESTIA GYM APP.png)
-! [Personal portfolio design](/images/PERSONAL PORTFOLIO.png)
-! [Instagram App design](/images/INSTAGRAM APP.png)
-! [Virtual Tours web design](/images/VIRTUAL TOURS WEBSITE.png)
-! [Tafuta Keja (house-hunting) web design](/images/TAFUTA KEJA HOuse-hunting WEBSITE.png)
+[Cuntada Restaurant web design](/images/CUNTADA WEBSITE.png)
+
+[Gym App design](/images/CORPUS BESTIA GYM APP.png)
+
+[Personal portfolio design](/images/PERSONAL PORTFOLIO.png)
+
+[Instagram App design](/images/INSTAGRAM APP.png)
+
+[Virtual Tours web design](/images/VIRTUAL TOURS WEBSITE.png)
+
+[Tafuta Keja (house-hunting) web design](/images/TAFUTA KEJA HOuse-hunting WEBSITE.png)
