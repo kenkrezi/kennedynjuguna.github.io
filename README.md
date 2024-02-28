@@ -28,3 +28,6 @@ SOCIAL MEDIA MANAGER: Otaku House Kenya - 2022 /Present
 - Cuntada Restaurant web design
 - Gym App design
 - Personal portfolio design
+- Instagram App design
+- Virtual Tours web design
+- Tafuta Keja (house-hunting) web design
