@@ -25,8 +25,7 @@ SOCIAL MEDIA MANAGER: Otaku House Kenya - 2022 /Present
 - Web Design - 90%
   
 ### Projects
-- Cuntada Restaurant web design
-  (images/CUNTADA WEBSITE.png)
+![Cuntada Restaurant web design](images/CUNTADA WEBSITE.png)
 - Gym App design
 - Personal portfolio design
 - Instagram App design
